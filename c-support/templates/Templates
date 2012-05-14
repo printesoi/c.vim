@@ -3,12 +3,16 @@ $ =============================================================
 $ ========== USER MACROS ======================================
 $ =============================================================
 $
-|AUTHOR|    = YOUR NAME 
-|AUTHORREF| = 
-|EMAIL|     = 
+|AUTHOR|    = Dodon Victor
+|AUTHORREF| = DV
+|EMAIL|     = dodonvictor AT gmail DOT com
 |COMPANY|   = 
 |COPYRIGHT| = Copyright (c) |YEAR|, |AUTHOR|
 |STYLE|     = default
+|EDITOR|    = Vim 7.3
+|OS|        = Archlinux x86_64
+|CPP|       = clang++ 3.2
+|CC|        = clang 3.2
 $
 $ =============================================================
 $ ========== FILE INCLUDES ====================================
